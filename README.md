@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @graygroves
+- 👋 Hi, I’m @graygroves. I am a first year computer science student at the university of colorado (boulder)
 - 👀 I’m interested in cybersecurity, penetration testing, data and infosec.
 - 🌱 I’m currently learning computer science, java, python, c++.
 - 💞️ I’m looking to collaborate on anything.
